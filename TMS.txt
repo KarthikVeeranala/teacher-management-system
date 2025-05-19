@@ -1,0 +1,23 @@
+create Database project;
+
+
+use project;
+
+create table project(id int, name varchar(50), date date, fname varchar(50), experience int, post varchar(50), salary int, DoJ varchar(50));
+
+desc project;
++------------+-------------+------+-----+---------+-------+
+| Field      | Type        | Null | Key | Default | Extra |
++------------+-------------+------+-----+---------+-------+
+| id         | int         | YES  |     | NULL    |       |
+| name       | varchar(50) | YES  |     | NULL    |       |
+| date       | date        | YES  |     | NULL    |       |
+| fname      | varchar(50) | YES  |     | NULL    |       |
+| experience | int         | YES  |     | NULL    |       |
+| post       | varchar(50) | YES  |     | NULL    |       |
+| salary     | int         | YES  |     | NULL    |       |
+| DoJ        | varchar(50) | YES  |     | NULL    |       |
++------------+-------------+------+-----+---------+-------+
+
+
+
