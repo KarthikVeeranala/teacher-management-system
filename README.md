@@ -1,7 +1,6 @@
 # 🏫 Teacher Management System (DBMS Project)
 
-**A Python-MySQL based project for managing teacher records**  
-By: **Karthik V** |
+**A Python-MySQL based project for managing teacher records** 
 
 ---
 
