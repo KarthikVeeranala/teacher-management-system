@@ -102,15 +102,7 @@
 
 ## **📚 References**
 
-- Informatics Practices by Preeti Arora  
-- NCERT IP Textbook  
 - Stack Overflow  
 - Google & Online Resources
-
----
-
-## **📌 License**
-
-This project was created for educational purposes as part of the CBSE AISSCE curriculum. Open for academic use and learning.
 
 ---
