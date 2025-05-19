@@ -1,8 +1,7 @@
 # 🏫 Teacher Management System (DBMS Project)
 
 **A Python-MySQL based project for managing teacher records**  
-Designed for the AISSCE Informatics Practices (065) coursework  
-By: **Karthik V** | Under the guidance of **Mrs. Archana Pataskar**
+By: **Karthik V** |
 
 ---
 
