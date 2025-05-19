@@ -60,7 +60,9 @@ By: **Karthik V** | Under the guidance of **Mrs. Archana Pataskar**
 
 ## **📷 Sample Output Screens**
 
-> Screenshots of terminal output and graphs can be added here.
+![image](https://github.com/user-attachments/assets/9b9a0216-4565-4ce3-b178-40cc106bb88d)
+![image](https://github.com/user-attachments/assets/c47a2501-759f-4ce7-a53c-2f6a7d58961f)
+
 
 ---
 
